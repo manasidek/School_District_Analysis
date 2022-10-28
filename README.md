@@ -20,7 +20,6 @@ Import the Data from the file and store it in a DataFrame. This DataFrame is dis
 
 The Script used to read the data is:
 
-
 Student Data File:[DataFile]()
 
 
