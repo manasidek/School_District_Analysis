@@ -14,13 +14,22 @@
 
 ## Student Analysis Results
 
-The script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
+The Script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
 
 ### Collecting the Student Data
 
 Import the Data from the file and store it in a DataFrame. This DataFrame is displayed as follows
 
 The Script used to read the data is:
+```
+# Create the path and import the data
+full_student_data = os.path.join('../Resources/new_full_student_data.csv')
+student_df = pd.read_csv(full_student_data)
+
+# Verify that the data was properly imported
+student_df.head()
+
+```
 
 Student Data File: [DataFile]()
 
