@@ -9,7 +9,7 @@
 
 ## Resources
 
-- Data Source: [Student Data]()
+- Data Source: [Student Data](https://github.com/manasidek/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Resources/new_full_student_data.csv)
 - Software: Anaconda 22.9.0 ,Python 3.7.6,Jupyter Notebook 6.4.12
 
 ## Student Analysis Results
