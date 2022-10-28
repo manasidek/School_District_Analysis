@@ -9,7 +9,7 @@
 
 ## Resources
 
-- Data Source: [Student Data]()
+- Data Source: [Student Data](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
 - Software: Anaconda 22.9.0 ,Python 3.7.6,Jupyter Notebook 6.4.12
 
 ## Student Analysis Results
