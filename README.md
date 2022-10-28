@@ -28,10 +28,11 @@ student_df = pd.read_csv(full_student_data)
 
 # Verify that the data was properly imported
 student_df.head()
-
 ```
 
-Student Data File: [DataFile]()
+Student Data File:
+
+![DataFile](https://github.com/manasidek/School_District_Analysis/blob/main/Images/Student_Data.png)
 
 
 ### Preparing the Student Data for Analysis
