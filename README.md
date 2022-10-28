@@ -9,7 +9,7 @@
 
 ## Resources
 
-- Data Source:[Student Data]()
+- Data Source: [Student Data]()
 - Software: Anaconda 22.9.0 ,Python 3.7.6,Jupyter Notebook 6.4.12
 
 ## Student Analysis Results
@@ -20,7 +20,7 @@ Import the Data from the file and store it in a DataFrame. This DataFrame is dis
 
 The Script used to read the data is:
 
-Student Data File:[DataFile]()
+Student Data File: [DataFile]()
 
 
 ### Preparing the Student Data for Analysis
