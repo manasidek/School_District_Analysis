@@ -108,7 +108,11 @@ Grade 9 summary:
 
 - Comparing the type of schools for average math and reading scores
 
-![School Type](https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_mean.png)
+![School Type for Scores](https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_mean.png)
+
+- Comparing the type of schools for average school budget
+
+![School Budget for types](https://github.com/manasidek/School_District_Analysis/blob/main/Images/average_budget_school_type.png)
 
 - Number of students in each school from highest to lowest
 
@@ -118,6 +122,9 @@ Grade 9 summary:
 
 ![School Budget](https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_schoo_budget.png)
 
+- Average Math Score for each grade in Charter and Public Schools
+
+![math score for type](https://github.com/manasidek/School_District_Analysis/blob/main/Images/math_score%20_grade_type.png)
 
 ## Summary of the Analysis
 
