@@ -46,7 +46,7 @@ Student Data File:
 
 - After the above process is completed then checks have to be performed for data types. Changes must be done in order to make data available for analysis. For this data the "grade" column needed to be altered for analysis.
 
--Check all the data types
+- Check data types for all the columns
 
 ![Check Data Types All Columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/check_data_types.png)
 
