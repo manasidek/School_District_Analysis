@@ -11,18 +11,18 @@
 
 - Data Source: [Student Data](https://github.com/manasidek/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Resources/new_full_student_data.csv)
 
-- Software: Anaconda 22.9.0 ,Python 3.7.6,Jupyter Notebook 6.4.12
+- Software: Anaconda 22.9.0, Python 3.7.6, Jupyter Notebook 6.4.12
 
 ## Student Analysis Results
 
-The Script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
+The script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
 
 
 ### Collecting the Student Data
 
 Import the Data from the file and store it in a DataFrame. This DataFrame is displayed as follows
 
-The Script used to read the data is:
+The script used to read the data is:
 ```
 # Create the path and import the data
 full_student_data = os.path.join('../Resources/new_full_student_data.csv')
@@ -44,7 +44,7 @@ Student Data File:
 ![Null Values Deleted](https://github.com/manasidek/School_District_Analysis/blob/main/Images/Deleted_Null_Values.png)
 
 
-- After the above process is completed then checks have to be performed for data types.Changes must be done in order to make data available for analysis. For this data the "grade" column needed to be ultered for analysis.
+- After the above process is completed then checks have to be performed for data types. Changes must be done in order to make data available for analysis. For this data the "grade" column needed to be altered for analysis.
 
 ![Check Data Types All Columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/check_data_types.png)
 
@@ -59,11 +59,11 @@ One final check must be performed to confirm that the data is clean.
 
 ![Summary](https://github.com/manasidek/School_District_Analysis/blob/main/Images/describe_data.png)
 
-### Drilling Down into the Data
+### Drilling down into the Data
 
 - This is the analysis phase. 
 
-- Displying the ultered "grade" column
+- Displaying the altered "grade" column
 
 Student Grades:
 ![All Grades](https://github.com/manasidek/School_District_Analysis/blob/main/Images/modified_grade_column.png)
@@ -81,7 +81,7 @@ Grade 9 summary:
 ![Grade9](https://github.com/manasidek/School_District_Analysis/blob/main/Images/grade9_describe.png)
 
 
-- Dislaying the student with lowest reading score
+- Displaying the student with lowest reading score
 
 ![Lowest Reading Score](https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
 
