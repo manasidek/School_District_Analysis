@@ -46,17 +46,11 @@ Student Data File:
 
 - After the above process is completed then checks have to be performed for data types.Changes must be done in order to make data available for analysis. For this data the "grade" column needed to be ultered for analysis.
 
-![Check Data Types All Columns]
+![Check Data Types All Columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/check_data_types.png)
 
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/check_data_types.png)
+![Remove Grade Suffix "th"](https://github.com/manasidek/School_District_Analysis/blob/main/Images/remove_suffix_grade.png)
 
-![Remove Grade Suffix "th"]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/remove_suffix_grade.png)
-
-![Changed Data Type ofGrade Column]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/changed_data%20_type_grade.png)
+![Changed Data Type ofGrade Column](https://github.com/manasidek/School_District_Analysis/blob/main/Images/changed_data%20_type_grade.png)
 
 
 ### Summarize the Clean Data
@@ -72,58 +66,42 @@ One final check must be performed to confirm that the data is clean.
 - Displying the ultered "grade" column
 
 Student Grades:
-![All Grades]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/modified_grade_column.png)
+![All Grades](https://github.com/manasidek/School_District_Analysis/blob/main/Images/modified_grade_column.png)
 
 - Displaying the first 3 rows and selected columns of data
 
 Selected Row-Column Data:
-![3 Rows and 3 columns]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/iloc_function.png)
+![3 Rows and 3 columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/iloc_function.png)
 
 
 - Summary for Grade 9 for all the schools
 
 Grade 9 summary:
 
-![Grade9]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/grade9_describe.png)
+![Grade9](https://github.com/manasidek/School_District_Analysis/blob/main/Images/grade9_describe.png)
 
 
 - Dislaying the student with lowest reading score
 
-![Lowest Reading Score]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
+![Lowest Reading Score](https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
 
 - Reading Score for a specific School and specific Grade
 
-![Reading Scores]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/loc_conditionals.png)
+![Reading Scores](https://github.com/manasidek/School_District_Analysis/blob/main/Images/loc_conditionals.png)
 
 ### Comparing the Student Data
 
 - Comparing the type of schools for average math and reading scores
 
-![School Type]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_mean.png)
+![School Type](https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_mean.png)
 
 - Number of students in each school from highest to lowest
 
-![Student Count]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_count_sort_values.png)
+![Student Count](https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_count_sort_values.png)
 
 - Allocated Budget for each grade in Charter and Public Schools
 
-![School Budget]
-
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_schoo_budget.png)
+![School Budget](https://github.com/manasidek/School_District_Analysis/blob/main/Images/groupby_schoo_budget.png)
 
 
 ## Summary of the Analysis
