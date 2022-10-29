@@ -84,7 +84,7 @@ Student Grades:
 Selected Row-Column Data:
 ![3 Rows and 3 columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/iloc_function.png)
 
-- - Displaying the student with lowest reading score
+- Displaying the student with lowest reading score
 
 ![Lowest Reading Score](https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
 
@@ -94,7 +94,6 @@ Selected Row-Column Data:
 Grade 9 summary:
 
 ![Grade9](https://github.com/manasidek/School_District_Analysis/blob/main/Images/grade9_describe.png)
-
 
 - Reading score for a specific School (Dixon High School) and specific Grade (Grade 10)
 
