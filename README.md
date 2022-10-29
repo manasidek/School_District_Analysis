@@ -85,7 +85,7 @@ Grade 9 summary:
 
 ![Lowest Reading Score](https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
 
-- Reading Score for a specific School and specific Grade
+- Reading score for a specific School (Dixon High School) and specific Grade (Grade 10)
 
 ![Reading Scores](https://github.com/manasidek/School_District_Analysis/blob/main/Images/loc_conditionals.png)
 
