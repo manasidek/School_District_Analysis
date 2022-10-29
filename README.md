@@ -9,15 +9,24 @@
 
 ## Resources
 
+<<<<<<< HEAD
 - Data Source:[Student Data](https://github.com/manasidek/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Resources/new_full_student_data.csv)
+=======
+- Data Source: [Student Data](https://github.com/manasidek/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Resources/new_full_student_data.csv)
+>>>>>>> 3259cfeab85d15bad92d99641b0b3e7d1a3d5f08
 - Software: Anaconda 22.9.0 ,Python 3.7.6,Jupyter Notebook 6.4.12
 
 ## Student Analysis Results
 
+<<<<<<< HEAD
 
 The Script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
 
 
+=======
+The Script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
+
+>>>>>>> 3259cfeab85d15bad92d99641b0b3e7d1a3d5f08
 ### Collecting the Student Data
 
 Import the Data from the file and store it in a DataFrame. This DataFrame is displayed as follows
