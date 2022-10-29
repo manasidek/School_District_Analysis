@@ -71,8 +71,7 @@ Student Grades:
 - Displaying the first 3 rows and selected columns of data
 
 Selected Row-Column Data:
-![3 Rows and 3 columns]
-(https://github.com/manasidek/School_District_Analysis/blob/main/Images/iloc_function.png)
+![3 Rows and 3 columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/iloc_function.png)
 
 
 - Summary for Grade 9 for all the schools
