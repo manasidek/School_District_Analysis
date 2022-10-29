@@ -130,11 +130,11 @@ Grade 9 summary:
 
 ### Discoveries Made:
 
-- The overall Reading Score is higher than the overall Math Score.
+- The average Reading Score is higher than the average Math Score in both school types.
 
-- Math Scores are higher in Charter Schools in comparison with Public Schools, while Reading Scores remain consistent.
+- Average Math Scores are higher in Charter Schools in comparison with Public Schools, while Reading Scores remain consistent.
 
-- The allocated School Budget for Public Schools is higher than that for Charter Schools.
+- The allocated average School Budget for Public Schools is higher than that for Charter Schools.
 
 ### Some more analysis than can be performed:
 
