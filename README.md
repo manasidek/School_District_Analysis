@@ -9,29 +9,20 @@
 
 ## Resources
 
-<<<<<<< HEAD
-- Data Source:[Student Data](https://github.com/manasidek/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Resources/new_full_student_data.csv)
-=======
 - Data Source: [Student Data](https://github.com/manasidek/School_District_Analysis/blob/main/Student_Data_Challenge_Starter_Code/Resources/new_full_student_data.csv)
->>>>>>> 3259cfeab85d15bad92d99641b0b3e7d1a3d5f08
-- Software: Anaconda 22.9.0 ,Python 3.7.6,Jupyter Notebook 6.4.12
+
+- Software: Anaconda 22.9.0, Python 3.7.6, Jupyter Notebook 6.4.12
 
 ## Student Analysis Results
 
-<<<<<<< HEAD
-
-The Script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
+The script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
 
 
-=======
-The Script for the analysis is: [Student Data Code](https://github.com/manasidek/School_District_Analysis/tree/main/Student_Data_Challenge_Starter_Code/Solved)
-
->>>>>>> 3259cfeab85d15bad92d99641b0b3e7d1a3d5f08
 ### Collecting the Student Data
 
 Import the Data from the file and store it in a DataFrame. This DataFrame is displayed as follows
 
-The Script used to read the data is:
+The script used to read the data is:
 ```
 # Create the path and import the data
 full_student_data = os.path.join('../Resources/new_full_student_data.csv')
@@ -53,13 +44,19 @@ Student Data File:
 ![Null Values Deleted](https://github.com/manasidek/School_District_Analysis/blob/main/Images/Deleted_Null_Values.png)
 
 
-- After the above process is completed then checks have to be performed for data types.Changes must be done in order to make data available for analysis. For this data the "grade" column needed to be ultered for analysis.
+- After the above process is completed then checks have to be performed for data types. Changes must be done in order to make data available for analysis. For this data the "grade" column needed to be altered for analysis.
+
+- Check data types for all the columns
 
 ![Check Data Types All Columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/check_data_types.png)
 
+- Remove the Suffix "th" from Grade column
+
 ![Remove Grade Suffix "th"](https://github.com/manasidek/School_District_Analysis/blob/main/Images/remove_suffix_grade.png)
 
-![Changed Data Type ofGrade Column](https://github.com/manasidek/School_District_Analysis/blob/main/Images/changed_data%20_type_grade.png)
+- Change data type og Grade column
+
+![Changed Data Type of Grade Column](https://github.com/manasidek/School_District_Analysis/blob/main/Images/changed_data%20_type_grade.png)
 
 
 ### Summarize the Clean Data
@@ -68,19 +65,30 @@ One final check must be performed to confirm that the data is clean.
 
 ![Summary](https://github.com/manasidek/School_District_Analysis/blob/main/Images/describe_data.png)
 
-### Drilling Down into the Data
+- Displaying the **average math score 64.67573326141189**
+
+- The **minimum reading score** as min_reading_score is **10.5**
+
+
+### Drilling down into the Data
 
 - This is the analysis phase. 
 
-- Displying the ultered "grade" column
+- Displaying the altered "grade" column
 
 Student Grades:
+
 ![All Grades](https://github.com/manasidek/School_District_Analysis/blob/main/Images/modified_grade_column.png)
 
 - Displaying the first 3 rows and selected columns of data
 
 Selected Row-Column Data:
+
 ![3 Rows and 3 columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/iloc_function.png)
+
+- Displaying the student with lowest reading score
+
+![Lowest Reading Score](https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
 
 
 - Summary for Grade 9 for all the schools
@@ -89,14 +97,12 @@ Grade 9 summary:
 
 ![Grade9](https://github.com/manasidek/School_District_Analysis/blob/main/Images/grade9_describe.png)
 
+- Reading score for a specific School (Dixon High School) and specific Grade (Grade 10)
 
-- Dislaying the student with lowest reading score
-
-![Lowest Reading Score](https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
-
-- Reading Score for a specific School and specific Grade
 
 ![Reading Scores](https://github.com/manasidek/School_District_Analysis/blob/main/Images/loc_conditionals.png)
+
+- The **average reading score** for all students in grades 11 and 12 combined is **74.90038089192188**
 
 ### Comparing the Student Data
 
