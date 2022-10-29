@@ -46,11 +46,17 @@ Student Data File:
 
 - After the above process is completed then checks have to be performed for data types. Changes must be done in order to make data available for analysis. For this data the "grade" column needed to be altered for analysis.
 
+-Check all the data types
+
 ![Check Data Types All Columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/check_data_types.png)
+
+- Remove the Suffix "th" from Grade column
 
 ![Remove Grade Suffix "th"](https://github.com/manasidek/School_District_Analysis/blob/main/Images/remove_suffix_grade.png)
 
-![Changed Data Type ofGrade Column](https://github.com/manasidek/School_District_Analysis/blob/main/Images/changed_data%20_type_grade.png)
+- Change data type og Grade column
+
+![Changed Data Type of Grade Column](https://github.com/manasidek/School_District_Analysis/blob/main/Images/changed_data%20_type_grade.png)
 
 
 ### Summarize the Clean Data
@@ -58,6 +64,11 @@ Student Data File:
 One final check must be performed to confirm that the data is clean.
 
 ![Summary](https://github.com/manasidek/School_District_Analysis/blob/main/Images/describe_data.png)
+
+- Displaying the **average math score 64.67573326141189**
+
+- The **minimum reading score** as min_reading_score is **10.5**
+
 
 ### Drilling down into the Data
 
@@ -73,6 +84,10 @@ Student Grades:
 Selected Row-Column Data:
 ![3 Rows and 3 columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/iloc_function.png)
 
+- - Displaying the student with lowest reading score
+
+![Lowest Reading Score](https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
+
 
 - Summary for Grade 9 for all the schools
 
@@ -81,13 +96,11 @@ Grade 9 summary:
 ![Grade9](https://github.com/manasidek/School_District_Analysis/blob/main/Images/grade9_describe.png)
 
 
-- Displaying the student with lowest reading score
-
-![Lowest Reading Score](https://github.com/manasidek/School_District_Analysis/blob/main/Images/min_read_loc.png)
-
 - Reading score for a specific School (Dixon High School) and specific Grade (Grade 10)
 
 ![Reading Scores](https://github.com/manasidek/School_District_Analysis/blob/main/Images/loc_conditionals.png)
+
+- The **average reading score** for all students in grades 11 and 12 combined is **74.90038089192188**
 
 ### Comparing the Student Data
 
