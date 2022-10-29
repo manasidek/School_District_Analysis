@@ -77,11 +77,13 @@ One final check must be performed to confirm that the data is clean.
 - Displaying the altered "grade" column
 
 Student Grades:
+
 ![All Grades](https://github.com/manasidek/School_District_Analysis/blob/main/Images/modified_grade_column.png)
 
 - Displaying the first 3 rows and selected columns of data
 
 Selected Row-Column Data:
+
 ![3 Rows and 3 columns](https://github.com/manasidek/School_District_Analysis/blob/main/Images/iloc_function.png)
 
 - Displaying the student with lowest reading score
@@ -96,6 +98,7 @@ Grade 9 summary:
 ![Grade9](https://github.com/manasidek/School_District_Analysis/blob/main/Images/grade9_describe.png)
 
 - Reading score for a specific School (Dixon High School) and specific Grade (Grade 10)
+
 
 ![Reading Scores](https://github.com/manasidek/School_District_Analysis/blob/main/Images/loc_conditionals.png)
 
