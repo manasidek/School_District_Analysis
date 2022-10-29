@@ -54,7 +54,7 @@ Student Data File:
 
 ![Remove Grade Suffix "th"](https://github.com/manasidek/School_District_Analysis/blob/main/Images/remove_suffix_grade.png)
 
-- Change data type og Grade column
+- Change data type of Grade column
 
 ![Changed Data Type of Grade Column](https://github.com/manasidek/School_District_Analysis/blob/main/Images/changed_data%20_type_grade.png)
 
